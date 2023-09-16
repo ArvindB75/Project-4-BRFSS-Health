@@ -41,7 +41,7 @@ data = pd.read_csv('path_to_file/EDA.csv')
 
   - BMI plays a pivotal role in the onset of diabetes.
   - Smoking is strongly associated with cardiovascular and pulmonary pathologies.
-  - Osteoarthritis is profoundly linked with age.
+  - Arthritis is profoundly linked with age.
   - Women are more susceptible to depression compared to men.
   
 - **Recommendations**:
